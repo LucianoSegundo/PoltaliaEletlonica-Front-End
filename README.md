@@ -8,6 +8,8 @@ Na portaria, deve haver uma *tela contendo cards clicáveis* contendo o nome de 
 
 No sistema deve haver uma *tela com todos os funcionários cadastrados*. O usuário pode *selecionar um funcionário* e esta seleção deve mostrar todos os registros feitos pela portaria para aquele funcionário."
 
+repositorio front end: (https://github.com/LucianoSegundo/PoltaliaEletlonica-Front-End)[https://github.com/LucianoSegundo/PoltaliaEletlonica-Front-End]
+
 ## diagrama de classes.
 ```mermaid
 classDiagram
